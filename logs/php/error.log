@@ -1,0 +1,1 @@
+[20-Jun-2025 16:39:13 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Luqman\Local Sites\urbannest\app\public\wp-content\plugins\apollo13-framework-extensions\design_importer\actions.php on line 330
